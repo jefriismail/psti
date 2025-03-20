@@ -5,14 +5,12 @@
 
 ### Author:
 **Jefri Abdurrozak Ismail**  
-NPM: 23066020025
+**23066020025**
 
 ---
 
 ### Project Overview:
-This repository outlines the IT strategic roadmap for **Elitery**, a project that focuses on the long-term strategy for technology and information systems planning.
-
----
+This repository outlines the IT strategic roadmap for **Elitery**, a project aimed at developing a **Billing Dashboard Website**. The website will serve as a central platform to monitor and manage all customer billing activities for Elitery. The strategic plan focuses on approaching for technology and information systems that will ensure seamless tracking, billing, and overall operational efficiency in managing Elitery's customer billing processes.
 
 ### IT Strategic Roadmap for Elitery
 You can view the strategic roadmap in the link below:
@@ -23,7 +21,11 @@ You can view the strategic roadmap in the link below:
 
 ### Table of Contents:
 1. [Introduction](#introduction)
-2. [Project Details](#project-details)
-3. [Technology Strategy](#technology-strategy)
-4. [Roadmap Overview](#roadmap-overview)
-5. [Conclusion](#conclusion)
+2. [Narrative Document](#narrative-document)
+3. [SWOT Analysis](#swot-analysis)
+4. [Strategic Plan Analysis](#strategic-plan-analysis)
+5. [Key Performance Indicators (KPI)](#key-performance-indicators-kpi)
+6. [Project Timeline](#project-timeline)
+7. [Governance Documentation (Dokumen Tata Kelola)](#governance-documentation-dokumen-tata-kelola)
+8. [Research Paper](#research-paper)
+9. [Conclusion](#conclusion)
