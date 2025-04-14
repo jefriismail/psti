@@ -22,7 +22,7 @@ You can view the strategic roadmap in the link below:
 ### Table of Contents:
 1. [Introduction](Introduction.pdf)
 2. [Narrative Document](NarrativeDocs.pdf)
-3. [SWOT Analysis](#swot-analysis)
+3. [SWOT Analysis](SWOTAnalysisWorksheet.pdf)
 4. [Strategic Plan Analysis](#strategic-plan-analysis)
 5. [Key Performance Indicators (KPI)](#key-performance-indicators-kpi)
 6. [Project Timeline](#project-timeline)
