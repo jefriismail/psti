@@ -23,7 +23,7 @@ You can view the strategic roadmap in the link below:
 1. [Introduction](Introduction.pdf)
 2. [Narrative Document](NarrativeDocs.pdf)
 3. [SWOT Analysis](SWOTAnalysisWorksheet.pdf)
-4. [Strategic Plan Analysis](#strategic-plan-analysis)
+4. [Strategic Plan Analysis](StrategicPlan.pdf)
 5. [Key Performance Indicators (KPI)](#key-performance-indicators-kpi)
 6. [Project Timeline](#project-timeline)
 7. [Governance Documentation (Dokumen Tata Kelola)](#governance-documentation-dokumen-tata-kelola)
